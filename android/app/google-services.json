@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "583323424480",
+    "project_id": "aayush-raj-fc2ef",
+    "storage_bucket": "aayush-raj-fc2ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583323424480:android:66164d3baa1f06e6c4e285",
+        "android_client_info": {
+          "package_name": "com.example.aayush_raj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvmiAl-9sAYDYgn9SwAJ1ZCz7s6jB5q1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
